@@ -25,6 +25,7 @@ module.exports = {
   },
 
   env: {
+        // NEXT_PUBLIC_RPC_HOST: 'https://solana-devnet.g.alchemy.com/v2/i5CezfrByF7DdcVQUBw3fjtnuNWcxoTm',
     NEXT_PUBLIC_RPC_HOST: 'https://metaplex.devnet.rpcpool.com/',
     // NEXT_PUBLIC_RPC_HOST: 'https://api.metaplex.solana.com/',
   },
